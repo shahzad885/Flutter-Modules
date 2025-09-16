@@ -1,0 +1,87 @@
+{
+  "project_info": {
+    "project_number": "929791059157",
+    "firebase_url": "https://test-adecc-default-rtdb.firebaseio.com",
+    "project_id": "test-adecc",
+    "storage_bucket": "test-adecc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929791059157:android:9636c12a791ed4d896ae5c",
+        "android_client_info": {
+          "package_name": "com.example.crochet_store"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-Zpk9utQiQcmaJur4ZcmPpmi308XiroI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929791059157:android:c858a7b73a93bad596ae5c",
+        "android_client_info": {
+          "package_name": "com.example.fbtest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-Zpk9utQiQcmaJur4ZcmPpmi308XiroI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929791059157:android:b5cc3870bf82807c96ae5c",
+        "android_client_info": {
+          "package_name": "com.example.recipe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-Zpk9utQiQcmaJur4ZcmPpmi308XiroI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929791059157:android:d404db9fa7c7259b96ae5c",
+        "android_client_info": {
+          "package_name": "com.example.sky"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-Zpk9utQiQcmaJur4ZcmPpmi308XiroI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
